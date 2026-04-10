@@ -1,0 +1,19 @@
+# Apex Leads
+
+> Standalone B2B & Home Service Lead Intelligence Platform. Neural-purified data for industrial and local service operators.
+
+## Value Proposition
+Apex Leads merges present-day verification with future AI-driven purification. Every lead undergoes Neural Sentiment Verification (NSV) to ensure intent veracity.
+
+## Key Stats
+- **Coverage**: 55+ Major US Metro Zones.
+- **Verticals**: 24 Target Industries (Roofing, HVAC, Legal, Medical, etc.).
+- **Refresh Cycle**: 2-hour autonomous scan frequency.
+- **Veracity**: AI-vetted phone, address, and intent signals.
+
+## Pricing
+- **Flash Sale**: $499 for 1,000 Verified Leads (Limited Time).
+- **Retail**: $499 for 50 Leads (Tier 2), $1,999 (Tier 1), $4,999 (Global).
+
+## Intelligence Engine
+The Apex Engine uses Sentiment Analysis and Intent Scoring to filter out low-value noise, delivering only high-purity buyer signals.
